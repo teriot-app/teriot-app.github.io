@@ -100,11 +100,7 @@ function Privacy() {
         This Privacy Policy applies only to our online activities and is valid
         for visitors to our App with regards to the information that they shared
         and/or collect in Teriot. This policy is not applicable to any
-        information collected offline or via channels other than this app. Our
-        Privacy Policy was created with the help of the{" "}
-        <a href="https://www.app-privacy-policy.com/app-privacy-policy-generator/">
-          App Privacy Policy Generator from App-Privacy-Policy.com
-        </a>
+        information collected offline or via channels other than this app.
       </p>
 
       <h2>Consent</h2>

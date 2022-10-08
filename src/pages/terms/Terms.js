@@ -1,3 +1,4 @@
+import React from "react";
 function Terms() {
   return (
     <>
@@ -32,11 +33,7 @@ function Terms() {
         subject to, prevailing law of Netherlands. Any use of the above
         terminology or other words in the singular, plural, capitalization
         and/or he/she or they, are taken as interchangeable and therefore as
-        referring to same. Our Terms and Conditions were created with the help
-        of the{" "}
-        <a href="https://www.app-privacy-policy.com/app-terms-conditions-generator/">
-          App Terms and Conditions Generator from App-Privacy-Policy.com
-        </a>
+        referring to same.
       </p>
       <h3>
         <strong>License</strong>
